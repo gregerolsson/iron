@@ -6,6 +6,6 @@
 	"description": "Haxe library for building ultra-portable 3D tools using Kha and Haxe, powering Armory",
 	"version": "18.0.5",
 	"releasenote": "Initial Haxelib release",
-	"contributors": [ "luboslenco" ],
+	"contributors": [ "luboslenco", "gregerolsson" ],
 	"classPath": "Sources"
 }
